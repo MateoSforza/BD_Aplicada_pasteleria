@@ -38,3 +38,11 @@ Nombres:
 - "index" se usa para los puntos de entrada tanto en backend como en frontend.
 
 Esta organización facilita el trabajo en equipo, la escalabilidad y el mantenimiento del proyecto a largo plazo.
+
+
+3. REGLAS
+Log in
+dashboard inicial
+dashboard drill up/down de tortas,medidas y ingredientes tal cual como en la app maui
+apartado de estadisticas, (que ingrediente se utiliza mas, busqueda de ingredientes, tortas, etc) 
+3 PERIODOS, POR EJEMPLO ALTA BAJA MEDIA  rojo amarillo verde
